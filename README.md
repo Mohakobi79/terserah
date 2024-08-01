@@ -7,7 +7,7 @@ Hai kamu iser nightmare Md
 📌 plugins info-script jangan di ubah
 
 Owner:
-wa.me/6282285357346 (tio)
+wa.me/6283849469400 (galaxy)
 
 /**•───── MERRY ✧ MD ─────• **/
 ```Up to Date 1.2.5```
