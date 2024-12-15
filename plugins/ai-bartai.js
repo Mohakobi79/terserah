@@ -12,7 +12,7 @@ let handler = async (m, {
     }  else throw 'reply/ketik pertanyaan';
 
     try {
-        m.react('✨')
+        m.react('')
         let res = await bartai(text);
         await m.reply(res)
     } catch (e) {
